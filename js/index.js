@@ -15,3 +15,4 @@ const result = confirm("Are you okey?")
 const category = "toys";
 console.log(`https://someurl.com/${category}/5`)
 console.log('xdxd')
+console.log('123x');
